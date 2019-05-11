@@ -1,4 +1,4 @@
-import hashlib,time
+import hashlib
 
 md5_hash  = input("Please enter md5 hash: ")
 pass_file = input("Please add password file: ")
